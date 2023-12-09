@@ -1,44 +1,37 @@
+<!-- This page is created for the 'Introduction to HTML' training course. -->
 <!DOCTYPE html>
 <html lang="en-US" dir="ltr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Web CV - Nurlan Kurbanzarov</title>
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">    
+    <title>Web CV - NURLAN KURBANAZAROV</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 </head>
 <body>
-<!--This page is created for the 'Introduction to HTML' training course.-->
-<h1>Web CV - Nurlan Kurbanzarov</h1>
-
-<aside>
-<h2>Phone Number</h2>
-<p>+998913843001</p>
-</aside>
-
-<main>
-    <section>
-        <summary>
+    <header>
+        <h1>Web CV - NURLAN KURBANAZAROV</h1>
+        <aside>
+            <h2>Phone number</h2>
+            <p>+998913843001</p>
+        </aside>
+    </header>
+    <main>
+        <section>
             <h2>Summary</h2>
-            <p>I have knowledge about some IT fields. Such as Web development and Backend.</p>
-            <p>My skills contain Java, Java Script, HTML,CSS</p>
-        </summary>
-    </section>
-
-    <section>
-        <h2>Education</h2>
-        <p>Public Middle School: N30-School</p>
-        <p>I am Studying at IT Park University</p>
-    </section>
-
-    <section>
-        <h2>Work Experience</h2>
-        <p>None</p>
-    </section>
-
+            <p>I'm a student</p>
+            <p>Software Engineering</p>
+        </section>
+        <section>
+            <h2>Education</h2>
+            <p>Public middle school</p>
+            <p>University</p>
+        </section>
+        <section>
+            <h2>Work Experience</h2>
+            <p>None</p>
+        </section>
+    </main>
     <footer>
         <p>© My Copyright</p>
     </footer>
-</main>
-
 </body>
 </html>
